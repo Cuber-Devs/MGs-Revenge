@@ -1,20 +1,15 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Ötlet
+about: Írd le az ötletedet!
 title: ''
-labels: ''
+labels: Felvetés
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Írd le mit szeretnél**
+Add meg pontosabban mit akarsz.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Esetleges kép**
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Egyéb megjegyzés**
