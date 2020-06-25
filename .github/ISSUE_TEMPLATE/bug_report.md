@@ -1,5 +1,4 @@
 **Írd le a hibát**
-Pontosan írd le, vagy törölve lesz (ezt a sort törölheted)
 
 **A hiba megismétlése**
 Valahogy, így írd le:
@@ -10,14 +9,13 @@ Valahogy, így írd le:
 4. See error
 (Kitörölheted)
 
-**Várt esemény**
+**Aminek történie kellett volna**
+
+**Ami történt**
 
 **Képek**
 
 **Adatok**
- - Skript verzió:
- - Szerver verzió:
- - Punishment skript verzió:
- - Punishment skript tabcomplete verzió:
+ - Játék verzió:
 
 **Egyéb megjegyzés**
