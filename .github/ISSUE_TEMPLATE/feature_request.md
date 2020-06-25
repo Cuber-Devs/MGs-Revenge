@@ -8,7 +8,6 @@ assignees: ''
 ---
 
 **Írd le mit szeretnél**
-Add meg pontosabban mit akarsz.
 
 **Esetleges kép**
 
