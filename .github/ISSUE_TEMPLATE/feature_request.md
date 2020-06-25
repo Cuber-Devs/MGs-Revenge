@@ -2,7 +2,7 @@
 name: Ötlet
 about: Írd le az ötletedet!
 title: ''
-labels: Felvetés
+labels: ''
 assignees: ''
 
 ---
