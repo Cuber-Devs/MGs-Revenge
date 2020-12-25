@@ -1,2 +1,2 @@
-# MG-s-revenge-public
+# MG bosszúja
 Ez a hivatalos hibjelentő oldal
