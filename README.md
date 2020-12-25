@@ -1,2 +1,2 @@
-# MG bosszúja
+# Emgések bosszúja
 Ez a hivatalos hibjelentő oldal
