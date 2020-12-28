@@ -7,4 +7,4 @@ Ahhoz hogy hibát jelents, pontosan kell kitölteni az űrlapot a megadott felt�
 # Wiki
 Pár információ és hasznos tipp a játékkal kapcsolatban
 
-### [Katt ide wiki megtekintéséhez](https://github.com/AdamGaming15/MGs-Revenge/wiki)
+### [Katt ide wiki megtekintéséhez!](https://github.com/AdamGaming15/MGs-Revenge/wiki)
