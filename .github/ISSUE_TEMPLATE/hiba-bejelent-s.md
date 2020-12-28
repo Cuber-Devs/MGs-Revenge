@@ -2,7 +2,7 @@
 name: Hiba bejelentés
 about: Ezzel tudsz hibát bejelenteni, a csillagal jelölt kötelező kitölteni!
 title: Teszt
-labels: ''
+labels: Hiba
 assignees: ''
 
 ---
@@ -17,7 +17,6 @@ assignees: ''
 
 **Adatok***
  - Játék verzió:
-- Launcher verzió:
+ - Launcher verzió:
 
-**Egyéb megjegyzés**
-A csillagal jelölt kötelező kitölteni!
+**Megjegyzés**
