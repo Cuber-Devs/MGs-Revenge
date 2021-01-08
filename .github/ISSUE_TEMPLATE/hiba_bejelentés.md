@@ -1,8 +1,8 @@
 ---
 name: Hiba bejelentés
 about: Ezzel tudsz hibát bejelenteni, a csillagal jelölt kötelező kitölteni!
-title: Teszt
-labels: Hiba
+title: "[Hiba]"
+labels: 'Hiba, Státusz: elfogadásra vár'
 assignees: ''
 
 ---
