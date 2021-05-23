@@ -1,14 +1,15 @@
 ---
 name: Kérdés
 about: Kérdezz a játékkal kapcsolatban
-title: ''
+title: "[KÉRDÉS]"
 labels: Kérdés
-assignees: ''
+assignees: AdamGaming15
 
 ---
 
-**Kérdés***
+**Írd le a kérdésed:***
 
-**Kép/Videó**
+**Kép vagy videó**
 
-**Megjegyzés**
+---
+Egyéb megjegyzés:

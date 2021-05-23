@@ -2,8 +2,8 @@
 name: Hiba bejelentés
 about: Ezzel tudsz hibát bejelenteni, a csillagal jelölt kötelező kitölteni!
 title: "[Hiba]"
-labels: 'Hiba, Státusz: elfogadásra vár'
-assignees: ''
+labels: 'Bug, Státusz: elfogadásra vár'
+assignees: AdamGaming15
 
 ---
 

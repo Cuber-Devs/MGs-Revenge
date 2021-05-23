@@ -2,14 +2,15 @@
 name: Ötlet - Launcher
 about: Írd le az ötletedet a launcherrel kapcsolatban, a csillagal jelölt kötelező
   kitölteni!
-title: "[Ötlet]"
-labels: 'Ötlet, Típus: launcher, Státusz: elfogadásra vár'
+title: "[ÖTLET]"
+labels: 'Státusz: elfogadásra vár, Típus: launcher, Ötlet'
 assignees: ''
 
 ---
 
-**Írd le mit szeretnél***
+**Írd le mit szeretnél:***
 
 **Kép/Videó**
 
-**Megjegyzés**
+---
+Egyéb megjegyzés

@@ -1,14 +1,15 @@
 ---
 name: Ötlet - Játék
 about: Írd le az ötletedet a játékkal kapcsolatban, a csillagal jelölt kötelező kitölteni!
-title: "[Ötlet]"
-labels: 'Ötlet, Típus: játék, Státusz: elfogadásra vár'
+title: "[ÖTLET]"
+labels: 'Státusz: elfogadásra vár, Típus: játék, Ötlet'
 assignees: ''
 
 ---
 
-**Írd le mit szeretnél***
+**Írd le mit szeretnél:***
 
-**Kép/Videó**
+**Kép vagy videó**
 
-**Megjegyzés**
+---
+Egyéb megjegyzés:
