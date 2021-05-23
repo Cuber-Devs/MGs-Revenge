@@ -7,16 +7,15 @@ assignees: ''
 
 ---
 
-**Írd le mit tapasztaltál***
+**Írd le mit tapasztaltál:***
 
-**Írd le mit kellet volna tapasztalnod***
+**Írd le mit kellet volna tapasztalnod:***
 
-**Hiba reprodukálása***
+**Hiba reprodukálása:***
 
-**Képek/Videók**
+**Képek vagy videók**
 
-**Adatok***
- - Játék verzió:
- - Launcher verzió:
-
-**Megjegyzés**
+---
+Játék verzió:
+Launcher verzió:
+Egyéb megjegyzés:
