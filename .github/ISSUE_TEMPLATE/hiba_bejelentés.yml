@@ -1,0 +1,62 @@
+name: Hiba bejelentés
+description: Ezzel tudsz hibát bejelenteni, a csillagal jelölt kötelező kitölteni!
+title: "[BUG] "
+labels: [Bug, Státusz: elfogadásra vár]
+assignees:
+  - AdamGaming15
+body:
+    - type: markdown
+      attributes:
+        label: Felhasználói Feltételek
+        value: "Legyél megbizonyosodva arról, hogy a legfrisseb verziót használod, és ez hiba még nem létezik."
+    - type: textarea
+      attributes:
+        label: Írd le mit tapasztaltál
+        description: "Írd le, hogy pontosan mit tapasztaltál!"
+      validations:
+        required: true
+    - type: textarea
+      attributes:
+        label: Írd le mit kellet volna tapasztalnod
+        description: "Írd le, hogy szerinted mit kellett volna tapsztalnod!"
+      validations:
+        required: true
+    - type: textarea
+      attributes:
+        label: Hiba reprodukálása
+        description: "Írd le lépésről lépésre mit kell csinálni hogy a hibát reprodukálni lehessen!"
+        value: |
+        ``` Itt egy példa, ezt nyugodtan törölheted
+        Például:
+        1.
+        2.
+        3.
+        ...
+        ```
+      validations:
+        required: true
+    - type: textarea
+      attributes:
+        label: Kép vagy videó
+        description: "Ide csatolhatsz képeket vagy videókat a hibával kapcsolatban!"
+      validations:
+        required: false
+    - type: textarea
+      attributes:
+        label: A játékod verziója
+        description: "A játékot pontos verzióját ide írd!"
+      validations:
+        required: true
+    - type: textarea
+      attributes:
+        label: A játékindító verziója
+        description: "A játékindító (launhcer) pontos verzióját ide írd!"
+      validations:
+        required: true
+    - type: checkboxes
+      attributes:
+        label: Felhasználói Féltételek
+        description: "Fogadd el a Felhasználói Féltételeket, hogy beküldhesd a hibát"
+        options:
+          - label: Elolvastam a fentiekben leírt Felhasználói Feltételeket és egyetértek velük!
+            required: true
