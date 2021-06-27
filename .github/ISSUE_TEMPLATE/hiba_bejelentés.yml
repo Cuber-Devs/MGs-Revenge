@@ -7,8 +7,9 @@ assignees:
 body:
     - type: markdown
       attributes:
-        label: Felhasználói Feltételek
-        value: "Legyél megbizonyosodva arról, hogy a legfrisseb verziót használod, és ez hiba még nem létezik."
+        value: | 
+            ##Felhasználói Feltételek
+            Legyél megbizonyosodva arról, hogy a legfrisseb verziót használod, és ez hiba még nem létezik.
     - type: textarea
       attributes:
         label: Írd le mit tapasztaltál
