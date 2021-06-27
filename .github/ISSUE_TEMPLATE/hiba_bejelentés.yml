@@ -26,13 +26,12 @@ body:
         label: Hiba reprodukálása
         description: "Írd le lépésről lépésre mit kell csinálni hogy a hibát reprodukálni lehessen!"
         value: |
-        ``` Itt egy példa, ezt nyugodtan törölheted
+        Itt egy példa, ezt nyugodtan törölheted
         Például:
         1.
         2.
         3.
         ...
-        ```
       validations:
         required: true
     - type: textarea
