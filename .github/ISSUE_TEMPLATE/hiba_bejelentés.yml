@@ -8,7 +8,7 @@ body:
     - type: markdown
       attributes:
         value: | 
-            ##Felhasználói Feltételek
+            ## Felhasználói Feltételek
             Legyél megbizonyosodva arról, hogy a legfrisseb verziót használod, és ez hiba még nem létezik.
     - type: textarea
       attributes:
@@ -42,13 +42,13 @@ body:
         description: "Ide csatolhatsz képeket vagy videókat a hibával kapcsolatban!"
       validations:
         required: false
-    - type: textarea
+    - type: input
       attributes:
         label: A játékod verziója
         description: "A játékot pontos verzióját ide írd!"
       validations:
         required: true
-    - type: textarea
+    - type: input
       attributes:
         label: A játékindító verziója
         description: "A játékindító (launhcer) pontos verzióját ide írd!"
